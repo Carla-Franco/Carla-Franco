@@ -18,11 +18,11 @@ Seja para o que for, e o que for, contem comigo sempre!
 2021 de início - Cursando – Gestão de Recursos Humanos, Universidade Estácio de Sá   
 
 ## Cursos Complementares:
-Curso de Testes Automatizados (TDD + BDD) - Dell Tecnologia (Dell Lead) - Neste curso pude adquirir conhecimento em técnicas de TDD utilizando a 
+* Curso de Testes Automatizados (TDD + BDD) - Dell Tecnologia (Dell Lead) - Neste curso pude adquirir conhecimento em técnicas de TDD utilizando a 
 ferramenta Eclipse para o framework JUnit e linguagem Java e as técnicas de BDD utilizando a ferramenta Visual Studio Code e o framework Cucumber para 
 linguagem Ruby (com sintaxe Gherkin). Para a conclusão do curso foi montado um projeto utilizando a estrutura dos testes com o JUnit e as ações do 
 navegador com o Selenium WebDrive. 
-Curso de Introdução ao Teste de Software - Coursera - USP Universidade de São Paulo (em andamento)
+* Curso de Introdução ao Teste de Software - Coursera - USP Universidade de São Paulo (em andamento)
 
 ## Experiência Profissional:
 ### E&L Produções de Software
