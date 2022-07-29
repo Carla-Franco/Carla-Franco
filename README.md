@@ -17,7 +17,7 @@ Seja para o que for, e o que for, contem comigo sempre!
 ## Formação:
 2021 de início - Cursando – Gestão de Recursos Humanos, Universidade Estácio de Sá   
 
-## Cursos Comlementares:
+## Cursos Complementares:
 Curso de Testes Automatizados (TDD + BDD) - Dell Tecnologia (Dell Lead) - Neste curso pude adquirir conhecimento em técnicas de TDD utilizando a 
 ferramenta Eclipse para o framework JUnit e linguagem Java e as técnicas de BDD utilizando a ferramenta Visual Studio Code e o framework Cucumber para 
 linguagem Ruby (com sintaxe Gherkin). Para a conclusão do curso foi montado um projeto utilizando a estrutura dos testes com o JUnit e as ações do 
