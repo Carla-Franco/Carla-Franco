@@ -36,6 +36,9 @@
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
+
+##
+Apaixonada por testes, testes de software, QA e por cada vez mais conhecimento em tecnologia.
   
 ## Contatos e redes sociais: 
 <div> 
