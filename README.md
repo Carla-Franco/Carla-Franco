@@ -20,6 +20,7 @@
   * NetBeans
   * Cypress
   * Cucumber
+  * Gherkin
  
 ## Banco de dados que domino
   
