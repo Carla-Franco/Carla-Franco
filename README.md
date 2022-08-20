@@ -62,3 +62,4 @@ Inglês - Nível Básico
  * Lógica de Programação Essencial
  * Introdução ao JavaScript
  * Testes Automatizados (TDD + BDD)
+ * DevOps & Agile Culture
