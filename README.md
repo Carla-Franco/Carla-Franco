@@ -22,7 +22,10 @@ Seja para o que for, e o que for, contem comigo sempre!
 ferramenta Eclipse para o framework JUnit e linguagem Java e as técnicas de BDD utilizando a ferramenta Visual Studio Code e o framework Cucumber para 
 linguagem Ruby (com sintaxe Gherkin). Para a conclusão do curso foi montado um projeto utilizando a estrutura dos testes com o JUnit e as ações do 
 navegador com o Selenium WebDrive. 
+* Curso DevOps & Agile Culture – FIAP – Onde pude conhecer mais sobre a cultura ágil, com foco nas 3 principais metodologias: Scrum, Kanban e XP(Extreme Programming). E sua integração com todas as áreas de uma empresa e também aplicação de TDD. E com o conceito da prática Devops e seu ciclo.
 * Curso de Introdução ao Teste de Software - Coursera - USP Universidade de São Paulo (em andamento)
+* Curso em andamento de Formação Qa. Coders T8 - Academy
+* Curso em andamento de Testes de Aplicações Modernas com Cypress - Cod3r 
 
 ## Experiência Profissional:
 ### E&L Produções de Software
