@@ -1,4 +1,4 @@
-## Muito prazer, eu sou a Carla, analista de testes e QA!
+## Muito prazer, eu sou a Carla, Analista de Testes e QA!
 
 <div align="center">
   <a href="https://github.com/Carla-Franco">
