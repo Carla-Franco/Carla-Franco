@@ -19,7 +19,11 @@
   * Selenium
   * NetBeans
   * Cypress
+  * Postman
   * Cucumber
+  * RestAssured
+  * JUnit
+  * Maven
   * Gherkin
  
 ## Banco de dados que domino
