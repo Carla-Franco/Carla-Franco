@@ -61,4 +61,4 @@
 </div>
 
 
-![Snake animation](https://github.com/Carla-Franco/Carla-Franco/blob/output/github-contribution-grid-snake.svg)
+
