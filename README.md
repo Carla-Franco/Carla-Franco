@@ -61,4 +61,4 @@
 </div>
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://github.com/Carla-Franco/Carla-Franco/blob/output/github-snake-dark.svg)
