@@ -16,16 +16,10 @@
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   
-  * Selenium
-  * NetBeans
-  * Cypress
-  * Postman
-  * Cucumber
-  * RestAssured
-  * JUnit
-  * Maven
-  * Gherkin
- 
+  * Selenium          * Postman              * JUnit
+  * NetBeans          * Cucumber             * Maven
+  * Cypress           * RestAssured          * Gherkin
+   
 ## Banco de dados que domino
   
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -61,3 +55,7 @@
 </div>
 
 ![snake gif](https://github.com/Carla-Franco/Carla-Franco/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
+  
