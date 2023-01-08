@@ -61,6 +61,7 @@
 </div>
 
 ![snake gif](https://github.com/Carla-Franco/Carla-Franco/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
   
   
