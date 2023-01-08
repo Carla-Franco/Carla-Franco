@@ -16,9 +16,15 @@
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   
-  * Selenium          * Postman              * JUnit
-  * NetBeans          * Cucumber             * Maven
-  * Cypress           * RestAssured          * Gherkin
+  * Selenium                       
+  * NetBeans                      
+  * Cypress 
+  * Postman 
+  * Cucumber 
+  * RestAssured  
+  * JUnit
+  * Maven
+  * Gherkin
    
 ## Banco de dados que domino
   
