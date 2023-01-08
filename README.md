@@ -1,5 +1,7 @@
 ## Muito prazer, eu sou a Carla, Analista de Testes e QA!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Muito+Prazer!!%F0%9F%91%8B;Eu+sou+a+Carla+,+Analista+de+Testes+e+QA+!+)](https://github.com/Carla-Franco)
+
 <div align="center">
   <a href="https://github.com/Carla-Franco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carla-franco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
