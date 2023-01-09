@@ -62,7 +62,7 @@
   <a href="https://www.facebook.com/carlinha.ribeiro.16/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>   
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/Carla-Fanco/Carla-Fanco/blob/output/github-contribution-grid-snake.svg)
 
   
   
