@@ -26,6 +26,7 @@
   <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img align="center" alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
+  <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-open.svg?style=for-the-badge&logo=Cucumber&logoColor=white">
                                         
   * Cucumber 
   * RestAssured  
