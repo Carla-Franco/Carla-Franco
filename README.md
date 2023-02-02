@@ -27,7 +27,7 @@
   <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img align="center" alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
   <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-open.svg?style=for-the-badge&logo=Cucumber&logoColor=white">
-  <img align="center" alt="JUnit" src="https://badge.fury.io/rb/danger-junit.svg?style=for-the-badge&logo=JUnit&logoColor=white">
+  <img align="center" alt="JUnit" src="https://camo.githubusercontent.com/693cd2f4cc7f46d6505b23a93c505ca4328a2e4b192c21f54a5863d5dbadd38c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a756e69742d6a7570697465722d677265656e2e737667?style=for-the-badge&logo=JUnit&logoColor=white">
                                         
   * RestAssured  
   * JUnit
