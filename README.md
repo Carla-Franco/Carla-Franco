@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Muito+Prazer!%F0%9F%91%8B)](https://github.com/Carla-Franco)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Eu+sou+a+Carla,)](https://github.com/Carla-Franco)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Analista+de+Testes+e+QA+!+)](https://github.com/Carla-Franco)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Engenheira+de+Testes+e+QA+!+)](https://github.com/Carla-Franco)
 
 <div align="center">
   <a href="https://github.com/Carla-Franco">
