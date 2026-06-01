@@ -45,7 +45,8 @@
   
 ## Certificações
   * SFPC
-  * CTFL
+  * CTF
+  * CTAL-TAE
    
 ## Banco de dados que domino
   
