@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Carla Franco!
 
-### Quality Assurance | Software Quality | Test Automation
+### Quality Assurance | Software Quality | Test Automation | Quality Engineer
 
 Sou profissional de **Qualidade de Software**, apaixonada por tecnologia, automação de testes e melhoria contínua. Minha atuação combina **visão de qualidade, conhecimento técnico e colaboração**, buscando construir soluções mais confiáveis, eficientes e que gerem valor para o negócio e para o usuário.
 
